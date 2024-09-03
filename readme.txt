@@ -1,0 +1,1 @@
+To view the stereo video, please click the "index_xxx.html" where xxx indicates the case name.
